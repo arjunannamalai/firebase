@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![](Screenshot 2022-05-08 at 11.01.24 PM.png)
+![](firebase/Screenshot 2022-05-08 at 11.01.24 PM.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
